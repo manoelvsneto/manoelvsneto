@@ -12,3 +12,6 @@ https://hub.docker.com/repository/docker/manoelvsneto
 
 My Other Test Site
 www.devbit.com.br
+
+StackEdit
+stackedit.io
