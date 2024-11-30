@@ -10,6 +10,9 @@ https://www.archse.eng.br/
 My DockerHub 
 [https://hub.docker.com/repository/docker/manoelvsneto](https://hub.docker.com/u/manoelvsneto)
 
+Docs
+https://happy-smoke-0999a900f-production.eastus2.5.azurestaticapps.net
+
 
 StackEdit
 stackedit.io
