@@ -10,9 +10,10 @@ https://www.archse.eng.br/
 My DockerHub 
 [https://hub.docker.com/repository/docker/manoelvsneto](https://hub.docker.com/u/manoelvsneto)
 
-Docs
+
+---------------------------------------
+Documentation - w/ DocuSauros
 https://happy-smoke-0999a900f-production.eastus2.5.azurestaticapps.net
 
-
-StackEdit
-stackedit.io
+Mystic Insights - Tarot and Astrology :)
+https://witty-island-091da111e.6.azurestaticapps.net
