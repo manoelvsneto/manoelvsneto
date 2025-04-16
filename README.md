@@ -15,7 +15,7 @@ https://www.devbit.com.br/
 
 ---------------------------------------
 Documentation - w/ DocuSauros
-https://happy-smoke-0999a900f-production.eastus2.5.azurestaticapps.net
+https://salmon-forest-0d7c9ca0f.6.azurestaticapps.net
 
 Mystic Insights - Tarot and Astrology :)
 https://witty-island-091da111e.6.azurestaticapps.net
