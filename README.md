@@ -16,6 +16,7 @@ https://www.devbit.com.br/
 ---------------------------------------
 Documentation - w/ DocuSauros
 https://salmon-forest-0d7c9ca0f.6.azurestaticapps.net
+https://salmon-forest-0d7c9ca0f-production.eastus2.6.azurestaticapps.net
 
 Mystic Insights - Tarot and Astrology :)
 https://witty-island-091da111e.6.azurestaticapps.net
