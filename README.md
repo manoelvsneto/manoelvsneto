@@ -5,7 +5,7 @@ My Azure Devops
 https://devbit.visualstudio.com/
 
 My Blog
-https://www.archse.eng.br/
+https://blog.archse.eng.br/
 
 My DockerHub 
 [https://hub.docker.com/repository/docker/manoelvsneto](https://hub.docker.com/u/manoelvsneto)
