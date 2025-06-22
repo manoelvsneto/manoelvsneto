@@ -7,6 +7,9 @@ https://devbit.visualstudio.com/
 My Blog
 https://blog.archse.eng.br/
 
+My Training Company
+https://www.archse.eng.br/
+
 My DockerHub 
 [https://hub.docker.com/repository/docker/manoelvsneto](https://hub.docker.com/u/manoelvsneto)
 
@@ -17,10 +20,8 @@ https://www.devbit.com.br/
 Documentation - w/ DocuSauros
 https://salmon-forest-0d7c9ca0f-production.eastus2.6.azurestaticapps.net
 
-
-ASAAF System
-https://asasf-backend-b6hpc3a3e8azh4gs.canada-central-01.azurewebsites.net/line-station-matrix
-
+ASAAF System (My PhD Product , All Rights Reserved)
+asasf-backend-b6hpc3a3e8azh4gs.canadacentral-01.azurewebsites.net
 
 
 Mystic Insights - Tarot and Astrology :)
