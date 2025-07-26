@@ -6,6 +6,10 @@ Rabbitmq: https://rabbitmq.archse.eng.br/
 
 Azure Devops: https://devbit.visualstudio.com
 
+MongoDB: mongo.archse.eng.br
+
+Redis: redis.archse.eng.br
+
 Blog: https://blog.archse.eng.br
 
 Training Company: https://www.archse.eng.br
