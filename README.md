@@ -1,18 +1,15 @@
-My Pure MicroK8S Server Kubernetes
-https://dashboard.archse.eng.br
+MicroK8S Server Kubernetes: https://dashboard.archse.eng.br  (ORACLE OCI)
+
 Jarger: https://jaeger.archse.eng.br/
 
-My Azure Devops
-https://devbit.visualstudio.com
+Rabbitmq: https://rabbitmq.archse.eng.br/
 
-My Blog
-https://blog.archse.eng.br
+Azure Devops: https://devbit.visualstudio.com
 
-My Training Company
-https://www.archse.eng.br
+Blog: https://blog.archse.eng.br
 
-My DockerHub 
-[https://hub.docker.com/repository/docker/manoelvsneto](https://hub.docker.com/u/manoelvsneto)
+Training Company: https://www.archse.eng.br
 
-FrontEnd Test
-https://www.devbit.com.br
+DockerHub  [https://hub.docker.com/repository/docker/manoelvsneto](https://hub.docker.com/u/manoelvsneto)
+
+FrontEnd Test: https://www.devbit.com.br
