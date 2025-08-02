@@ -1,17 +1,21 @@
 
 Ambiente para testes/pocs:
 
-MicroK8S Server Kubernetes: https://dashboard.archse.eng.br  (ORACLE OCI)
+MicroK8S Server Kubernetes: dashboard.archse.eng.br
 
-Jarger: https://jaeger.archse.eng.br/
+Jarger: jaeger.archse.eng.br
 
-Rabbitmq: https://rabbitmq.archse.eng.br/
+Rabbitmq: rabbitmq.archse.eng.br
 
 Azure Devops: https://devbit.visualstudio.com
 
 MongoDB: mongo.archse.eng.br
 
 Redis: redis.archse.eng.br
+
+HazelCast: hazelcast.archse.eng.br
+
+
 ------------------------------------------------------------------------------------------------------------------------
 Blog: https://blog.archse.eng.br
 
