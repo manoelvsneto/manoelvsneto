@@ -1,11 +1,11 @@
 
 Ambiente para testes/pocs:
 
-Kubernetes: dashboard.archse.eng.br
+Kubernetes: dashboard.archse.eng.br [OK]
 
-Jarger: jaeger.archse.eng.br
+Jarger: jaeger.archse.eng.br [OK]
 
-Rabbitmq: rabbitmq.archse.eng.br
+Rabbitmq: rabbitmq.archse.eng.br [OK]
 
 MongoDB: mongo.archse.eng.br
 
@@ -17,7 +17,7 @@ Backstage: backstage.archse.eng.br
 
 Docusaurus: docusaurus.archse.eng.br
 
-Azure Devops: devbit.visualstudio.com
+Azure Devops: devbit.visualstudio.com [ok]
 
 Streamsets: streamsets.archse.eng.br
 
