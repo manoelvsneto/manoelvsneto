@@ -7,9 +7,9 @@ Jarger: jaeger.archse.eng.br [OK]
 
 Rabbitmq: rabbitmq.archse.eng.br [OK]
 
-MongoDB: mongo.archse.eng.br
+MongoDB: mongo.archse.eng.br [OK]
 
-Redis: redis.archse.eng.br
+Redis: redis.archse.eng.br [OK]
 
 HazelCast: hazelcast.archse.eng.br [OK]
 
