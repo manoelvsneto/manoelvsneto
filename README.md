@@ -11,13 +11,13 @@ MongoDB: mongo.archse.eng.br
 
 Redis: redis.archse.eng.br
 
-HazelCast: hazelcast.archse.eng.br
+HazelCast: hazelcast.archse.eng.br [OK]
 
 Backstage: backstage.archse.eng.br
 
 Docusaurus: docusaurus.archse.eng.br
 
-Azure Devops: devbit.visualstudio.com [ok]
+Azure Devops: devbit.visualstudio.com [OK]
 
 Streamsets: streamsets.archse.eng.br
 
