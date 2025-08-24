@@ -13,8 +13,6 @@ Redis: redis.archse.eng.br [OK]
 
 HazelCast: hazelcast.archse.eng.br [OK]
 
-Azure Devops: devbit.visualstudio.com [OK]
-
 Backstage: backstage.archse.eng.br
 
 Docusaurus: docusaurus.archse.eng.br
@@ -22,6 +20,12 @@ Docusaurus: docusaurus.archse.eng.br
 Overleaf: overleaf.archse.eng.br
 
 Streamsets: streamsets.archse.eng.br
+
+Kong: kong.archse.eng.br
+
+Kong: kong.archse.eng.br
+
+Keycloak: keycloak.archse.eng.br
 
 ------------------------------------------------------------------------------------------------------------------------
 Blog: https://blog.archse.eng.br
