@@ -23,8 +23,6 @@ Streamsets: streamsets.archse.eng.br
 
 Kong: kong.archse.eng.br
 
-Kong: kong.archse.eng.br
-
 Keycloak: keycloak.archse.eng.br
 
 ------------------------------------------------------------------------------------------------------------------------
