@@ -3,7 +3,7 @@ Ambiente para testes/pocs:
 
 Kubernetes: dashboard.archse.eng.br [OK]
 
-Jarger: jaeger.archse.eng.br [OK]
+Jarger: jaeger.archse.eng.br [OK] X
 
 Rabbitmq: rabbitmq.archse.eng.br [OK]
 
@@ -15,7 +15,7 @@ HazelCast: hazelcast.archse.eng.br [OK]
 
 Backstage: backstage.archse.eng.br
 
-Docusaurus: docusaurus.archse.eng.br
+Docusaurus: docusaurus.archse.eng.br [OK] X
 
 Overleaf: overleaf.archse.eng.br
 
