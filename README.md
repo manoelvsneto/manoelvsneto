@@ -1,11 +1,11 @@
 
 Ambiente para testes/pocs:
 
-Kubernetes: dashboard.archse.eng.br [OK]
+Kubernetes: dashboard.archse.eng.br [OK] X
 
 Jarger: jaeger.archse.eng.br [OK] X
 
-Rabbitmq: rabbitmq.archse.eng.br [OK]
+Rabbitmq: rabbitmq.archse.eng.br [OK] 
 
 MongoDB: mongo.archse.eng.br [OK]
 
