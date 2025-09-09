@@ -27,6 +27,7 @@ Keycloak: keycloak.archse.eng.br
 
 Hyperledger: hyperledger.archse.eng.br
 
+EventCatalog: eventcatalog.archse.eng.br
 ------------------------------------------------------------------------------------------------------------------------
 Blog: https://blog.archse.eng.br
 
