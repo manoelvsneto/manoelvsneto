@@ -1,21 +1,23 @@
 
 Ambiente para testes/pocs:
 
-Kubernetes: dashboard.archse.eng.br [OK] X
+Kubernetes: dashboard.archse.eng.br [OK]
 
-Jarger: jaeger.archse.eng.br [OK] X
+Jarger: jaeger.archse.eng.br [OK]
 
 Rabbitmq: rabbitmq.archse.eng.br [OK] 
 
-MongoDB: mongo.archse.eng.br [OK]
+HazelCast: hazelcast.archse.eng.br [OK]
 
 Redis: redis.archse.eng.br [OK]
 
 HazelCast: hazelcast.archse.eng.br [OK]
 
+MongoDB: mongo.archse.eng.br
+
 Backstage: backstage.archse.eng.br
 
-Docusaurus: docusaurus.archse.eng.br [OK] X
+Docusaurus: docusaurus.archse.eng.br
 
 Overleaf: overleaf.archse.eng.br
 
@@ -30,7 +32,6 @@ Hyperledger: hyperledger.archse.eng.br
 EventCatalog: eventcatalog.archse.eng.br
 
 Kogito: kogito.archse.eng.br
-
 
 ------------------------------------------------------------------------------------------------------------------------
 
