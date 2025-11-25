@@ -13,6 +13,8 @@ Redis: redis.archse.eng.br [OK]
 
 HazelCast: hazelcast.archse.eng.br [OK]
 
+Keycloak: keycloak.archse.eng.br [OK]
+
 Kong: kong.archse.eng.br
 
 Konga: konga.archse.eng.br
@@ -26,8 +28,6 @@ Docusaurus: docusaurus.archse.eng.br
 Overleaf: overleaf.archse.eng.br
 
 Streamsets: streamsets.archse.eng.br
-
-Keycloak: keycloak.archse.eng.br
 
 Hyperledger: hyperledger.archse.eng.br
 
