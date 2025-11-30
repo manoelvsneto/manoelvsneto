@@ -15,6 +15,10 @@ HazelCast: hazelcast.archse.eng.br [OK]
 
 Keycloak: keycloak.archse.eng.br [OK]
 
+Nifi: nifi.archse.eng.br [OK]
+
+Ignite: ignite.archse.eng.br
+
 Kong: kong.archse.eng.br
 
 Konga: konga.archse.eng.br
@@ -26,8 +30,6 @@ Backstage: backstage.archse.eng.br
 Docusaurus: docusaurus.archse.eng.br
 
 Overleaf: overleaf.archse.eng.br
-
-Streamsets: streamsets.archse.eng.br
 
 Hyperledger: hyperledger.archse.eng.br
 
