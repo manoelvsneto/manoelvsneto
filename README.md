@@ -19,9 +19,7 @@ Nifi: nifi.archse.eng.br [OK]
 
 Ignite: ignite.archse.eng.br
 
-Kong: kong.archse.eng.br
-
-Konga: konga.archse.eng.br
+Api: api.archse.eng.br
 
 MongoDB: mongo.archse.eng.br
 
