@@ -3,6 +3,8 @@ Ambiente para testes/pocs:
 
 Kubernetes: dashboard.archse.eng.br [OK]
 
+ArgoCD: https://argo.archse.eng.br [OK]
+
 Jarger: jaeger.archse.eng.br [OK]
 
 Rabbitmq: rabbitmq.archse.eng.br [OK] 
