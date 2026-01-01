@@ -13,8 +13,6 @@ HazelCast: hazelcast.archse.eng.br [OK]
 
 Redis: redis.archse.eng.br [OK]
 
-HazelCast: hazelcast.archse.eng.br [OK]
-
 Keycloak: keycloak.archse.eng.br [OK]
 
 Nifi: nifi.archse.eng.br [OK]
