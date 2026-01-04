@@ -3,7 +3,7 @@ Ambiente para testes/pocs:
 
 Kubernetes: dashboard.archse.eng.br [OK]
 
-ArgoCD: https://argo.archse.eng.br [OK]
+ArgoCD: argo.archse.eng.br [OK]
 
 Jarger: jaeger.archse.eng.br [OK]
 
@@ -15,7 +15,7 @@ Redis: redis.archse.eng.br [OK]
 
 Keycloak: keycloak.archse.eng.br [OK]
 
-Nifi: nifi.archse.eng.br [OK]
+Nifi: nifi.archse.eng.br
 
 Ignite: ignite.archse.eng.br
 
