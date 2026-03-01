@@ -1,7 +1,8 @@
 
 Ambiente para testes/pocs:
 
-Kubernetes: dashboard.archse.eng.br [OK]
+Kubernetes: dashboard.archse.eng.br [OK]  (Cloud)
+            alpaca-simple-newly.ngrok-free.app [OK] ( Bare Metal)
 
 ArgoCD: argo.archse.eng.br [OK]
 
