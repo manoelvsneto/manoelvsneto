@@ -65,7 +65,6 @@
 </p>
 
 ---
----
 
 ## 👨‍💻 About Me
 
@@ -103,12 +102,6 @@ I hold **25+ Microsoft certifications**, along with credentials in **Azure, AWS,
 
 ### 🔗 Official Certification Links
 
-| Verification | Link |
-|-------------|------|
-| Microsoft Certifications / Transcript | [Microsoft Learn Transcript](https://learn.microsoft.com/pt-br/users/manoelvdsneto/transcript/drjk4f63mrwm1wn) |
-| Credly Badges | [Credly Profile](https://www.credly.com/users/manoel-valerio-silveira-neto/badges) |
-
----
 
 <details>
 <summary><b>☁️ Microsoft Certifications</b></summary>
