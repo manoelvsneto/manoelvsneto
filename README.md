@@ -1,4 +1,4 @@
-<h1 align="center">🚀 ArchSE Platform Links</h1>
+<h1 align="center">🚀 My Platform Links</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Software-Architecture-blueviolet?style=for-the-badge" alt="Software Architecture" />
