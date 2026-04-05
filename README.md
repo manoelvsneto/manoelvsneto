@@ -199,3 +199,4 @@ I hold **25+ Microsoft certifications**, along with credentials in **Azure, AWS,
     <img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge" />
   </a>
 </p>
+https://updates.cdn-apple.com/2021/macos/031-0627-20210614-90D11F33-1A65-42DD-BBEA-E1D9F43A6B3F/InstallMacOSX.dmg
