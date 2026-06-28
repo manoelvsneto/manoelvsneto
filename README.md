@@ -21,6 +21,7 @@
 | 📘 **Argo** | [argo.archse.eng.br](https://argo.archse.eng.br) |
 | 📝 **Jaeger** | [jaeger.archse.eng.br](https://jaeger.archse.eng.br) |
 | 📰 **RabbitMQ** | [rabbitmq.archse.eng.br](https://rabbitmq.archse.eng.br) |
+| 📘 **Keycloak** | [https://keycloak.archse.eng.br/](https://keycloak.archse.eng.br/) |
 
 
 ---
