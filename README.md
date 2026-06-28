@@ -22,6 +22,7 @@
 | 📝 **Jaeger** | [jaeger.archse.eng.br](https://jaeger.archse.eng.br) |
 | 📰 **RabbitMQ** | [rabbitmq.archse.eng.br](https://rabbitmq.archse.eng.br) |
 | 📘 **Keycloak** | [keycloak.archse.eng.br](https://keycloak.archse.eng.br/) |
+| 📝 **Docusaurus** | [docusaurus.archse.eng.br/](https://docusaurus.archse.eng.br/) |
 
 
 ---
