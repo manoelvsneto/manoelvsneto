@@ -38,7 +38,7 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Manoel Valerio da Silveira Neto** — a **Professor**, **PhD Candidate in Computer Science**, and **Software Architect / Solution Architect** with more than **20 years of experience** in software development, software engineering, software architecture, and cloud-based solutions.
+Hi! I'm **Manoel Valerio da Silveira Neto** — a **Professor/Teacher**, **PhD Candidate in Computer Science**, and **Software Architect / Solution Architect** with more than **20 years of experience** in software development, software engineering, software architecture, and cloud-based solutions.
 
 I currently work at **Banco Bradesco** and at **Pontifical Catholic University of Paraná (PUCPR)**, connecting **academic research** with **real-world industry challenges**. My work focuses on **software architecture, cloud modernization, technical debt, quality attributes, agile methods, and software engineering best practices**.
 
